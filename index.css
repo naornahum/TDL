@@ -1,0 +1,14 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: antiquewhite;
+    text-align: center;
+    align-items: center;
+  }
+
+ h3 {
+    color: grey;
+    font-family: 'Roboto Mono', monospace;
+    position: absolute;
+    bottom: 0;
+    right: 45.5%;
+  }
